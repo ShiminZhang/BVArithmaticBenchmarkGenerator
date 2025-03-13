@@ -1,12 +1,11 @@
-How to use:
-LINUX
-1. Compile boolector(with simplifications turned off) by:
+# How to use(on LINUX):
+## Compile boolector(with simplifications turned off)
 
-# Download and build Lingeling
+### Download and build Lingeling
 ./contrib/setup-lingeling.sh
-# Download and build BTOR2Tools
+### Download and build BTOR2Tools
 ./contrib/setup-btor2tools.sh
-# Build Boolector
+### Build Boolector
 ./configure.sh && cd build && make
 
-2. Start generating
+## Start generating
