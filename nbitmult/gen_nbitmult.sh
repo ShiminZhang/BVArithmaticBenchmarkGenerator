@@ -33,7 +33,7 @@ bits=(
 
 l=${#bits[@]}
 for (( k=0; k<l; k++ )); do
-    for i in {0..49}; do
+    for i in {0..49}; do # duplication times
         bit=${bits[$k]}
         gen ${bit} $i
     done
