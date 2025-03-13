@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "btorexp.h": "c",
+        "btormem.h": "c",
+        "btorrewrite.h": "c",
+        "bitset": "c"
+    }
+}

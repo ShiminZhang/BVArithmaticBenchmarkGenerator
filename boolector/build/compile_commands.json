@@ -1,0 +1,764 @@
+[
+{
+  "directory": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src",
+  "command": "/usr/bin/cc -DBTOR_HAVE_PTHREADS -DBTOR_HAVE_SIGNALS -DBTOR_USE_LINGELING -DBTOR_USE_MINISAT -DNBTORLOG -DNDEBUG -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/deps/install/include  -std=gnu99 -W -Wall -Wextra -Wredundant-decls -O3 -O3 -DNDEBUG -o CMakeFiles/boolector.dir/aigprop.c.o -c /home/goose/BVArithmaticBenchmarkGenerator/boolector/src/aigprop.c",
+  "file": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/src/aigprop.c",
+  "output": "src/CMakeFiles/boolector.dir/aigprop.c.o"
+},
+{
+  "directory": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src",
+  "command": "/usr/bin/cc -DBTOR_HAVE_PTHREADS -DBTOR_HAVE_SIGNALS -DBTOR_USE_LINGELING -DBTOR_USE_MINISAT -DNBTORLOG -DNDEBUG -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/deps/install/include  -std=gnu99 -W -Wall -Wextra -Wredundant-decls -O3 -O3 -DNDEBUG -o CMakeFiles/boolector.dir/boolector.c.o -c /home/goose/BVArithmaticBenchmarkGenerator/boolector/src/boolector.c",
+  "file": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/src/boolector.c",
+  "output": "src/CMakeFiles/boolector.dir/boolector.c.o"
+},
+{
+  "directory": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src",
+  "command": "/usr/bin/cc -DBTOR_HAVE_PTHREADS -DBTOR_HAVE_SIGNALS -DBTOR_USE_LINGELING -DBTOR_USE_MINISAT -DNBTORLOG -DNDEBUG -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/deps/install/include  -std=gnu99 -W -Wall -Wextra -Wredundant-decls -O3 -O3 -DNDEBUG -o CMakeFiles/boolector.dir/boolectormc.c.o -c /home/goose/BVArithmaticBenchmarkGenerator/boolector/src/boolectormc.c",
+  "file": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/src/boolectormc.c",
+  "output": "src/CMakeFiles/boolector.dir/boolectormc.c.o"
+},
+{
+  "directory": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src",
+  "command": "/usr/bin/cc -DBTOR_HAVE_PTHREADS -DBTOR_HAVE_SIGNALS -DBTOR_USE_LINGELING -DBTOR_USE_MINISAT -DNBTORLOG -DNDEBUG -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/deps/install/include  -std=gnu99 -W -Wall -Wextra -Wredundant-decls -O3 -O3 -DNDEBUG -o CMakeFiles/boolector.dir/btorabort.c.o -c /home/goose/BVArithmaticBenchmarkGenerator/boolector/src/btorabort.c",
+  "file": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/src/btorabort.c",
+  "output": "src/CMakeFiles/boolector.dir/btorabort.c.o"
+},
+{
+  "directory": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src",
+  "command": "/usr/bin/cc -DBTOR_HAVE_PTHREADS -DBTOR_HAVE_SIGNALS -DBTOR_USE_LINGELING -DBTOR_USE_MINISAT -DNBTORLOG -DNDEBUG -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/deps/install/include  -std=gnu99 -W -Wall -Wextra -Wredundant-decls -O3 -O3 -DNDEBUG -o CMakeFiles/boolector.dir/btoraig.c.o -c /home/goose/BVArithmaticBenchmarkGenerator/boolector/src/btoraig.c",
+  "file": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/src/btoraig.c",
+  "output": "src/CMakeFiles/boolector.dir/btoraig.c.o"
+},
+{
+  "directory": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src",
+  "command": "/usr/bin/cc -DBTOR_HAVE_PTHREADS -DBTOR_HAVE_SIGNALS -DBTOR_USE_LINGELING -DBTOR_USE_MINISAT -DNBTORLOG -DNDEBUG -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/deps/install/include  -std=gnu99 -W -Wall -Wextra -Wredundant-decls -O3 -O3 -DNDEBUG -o CMakeFiles/boolector.dir/btoraigvec.c.o -c /home/goose/BVArithmaticBenchmarkGenerator/boolector/src/btoraigvec.c",
+  "file": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/src/btoraigvec.c",
+  "output": "src/CMakeFiles/boolector.dir/btoraigvec.c.o"
+},
+{
+  "directory": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src",
+  "command": "/usr/bin/cc -DBTOR_HAVE_PTHREADS -DBTOR_HAVE_SIGNALS -DBTOR_USE_LINGELING -DBTOR_USE_MINISAT -DNBTORLOG -DNDEBUG -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/deps/install/include  -std=gnu99 -W -Wall -Wextra -Wredundant-decls -O3 -O3 -DNDEBUG -o CMakeFiles/boolector.dir/btorass.c.o -c /home/goose/BVArithmaticBenchmarkGenerator/boolector/src/btorass.c",
+  "file": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/src/btorass.c",
+  "output": "src/CMakeFiles/boolector.dir/btorass.c.o"
+},
+{
+  "directory": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src",
+  "command": "/usr/bin/cc -DBTOR_HAVE_PTHREADS -DBTOR_HAVE_SIGNALS -DBTOR_USE_LINGELING -DBTOR_USE_MINISAT -DNBTORLOG -DNDEBUG -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/deps/install/include  -std=gnu99 -W -Wall -Wextra -Wredundant-decls -O3 -O3 -DNDEBUG -o CMakeFiles/boolector.dir/btorbeta.c.o -c /home/goose/BVArithmaticBenchmarkGenerator/boolector/src/btorbeta.c",
+  "file": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/src/btorbeta.c",
+  "output": "src/CMakeFiles/boolector.dir/btorbeta.c.o"
+},
+{
+  "directory": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src",
+  "command": "/usr/bin/cc -DBTOR_HAVE_PTHREADS -DBTOR_HAVE_SIGNALS -DBTOR_USE_LINGELING -DBTOR_USE_MINISAT -DNBTORLOG -DNDEBUG -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/deps/install/include  -std=gnu99 -W -Wall -Wextra -Wredundant-decls -O3 -O3 -DNDEBUG -o CMakeFiles/boolector.dir/btorbv.c.o -c /home/goose/BVArithmaticBenchmarkGenerator/boolector/src/btorbv.c",
+  "file": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/src/btorbv.c",
+  "output": "src/CMakeFiles/boolector.dir/btorbv.c.o"
+},
+{
+  "directory": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src",
+  "command": "/usr/bin/cc -DBTOR_HAVE_PTHREADS -DBTOR_HAVE_SIGNALS -DBTOR_USE_LINGELING -DBTOR_USE_MINISAT -DNBTORLOG -DNDEBUG -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/deps/install/include  -std=gnu99 -W -Wall -Wextra -Wredundant-decls -O3 -O3 -DNDEBUG -o CMakeFiles/boolector.dir/btorchkclone.c.o -c /home/goose/BVArithmaticBenchmarkGenerator/boolector/src/btorchkclone.c",
+  "file": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/src/btorchkclone.c",
+  "output": "src/CMakeFiles/boolector.dir/btorchkclone.c.o"
+},
+{
+  "directory": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src",
+  "command": "/usr/bin/cc -DBTOR_HAVE_PTHREADS -DBTOR_HAVE_SIGNALS -DBTOR_USE_LINGELING -DBTOR_USE_MINISAT -DNBTORLOG -DNDEBUG -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/deps/install/include  -std=gnu99 -W -Wall -Wextra -Wredundant-decls -O3 -O3 -DNDEBUG -o CMakeFiles/boolector.dir/btorchkmodel.c.o -c /home/goose/BVArithmaticBenchmarkGenerator/boolector/src/btorchkmodel.c",
+  "file": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/src/btorchkmodel.c",
+  "output": "src/CMakeFiles/boolector.dir/btorchkmodel.c.o"
+},
+{
+  "directory": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src",
+  "command": "/usr/bin/cc -DBTOR_HAVE_PTHREADS -DBTOR_HAVE_SIGNALS -DBTOR_USE_LINGELING -DBTOR_USE_MINISAT -DNBTORLOG -DNDEBUG -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/deps/install/include  -std=gnu99 -W -Wall -Wextra -Wredundant-decls -O3 -O3 -DNDEBUG -o CMakeFiles/boolector.dir/btorchkfailed.c.o -c /home/goose/BVArithmaticBenchmarkGenerator/boolector/src/btorchkfailed.c",
+  "file": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/src/btorchkfailed.c",
+  "output": "src/CMakeFiles/boolector.dir/btorchkfailed.c.o"
+},
+{
+  "directory": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src",
+  "command": "/usr/bin/cc -DBTOR_HAVE_PTHREADS -DBTOR_HAVE_SIGNALS -DBTOR_USE_LINGELING -DBTOR_USE_MINISAT -DNBTORLOG -DNDEBUG -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/deps/install/include  -std=gnu99 -W -Wall -Wextra -Wredundant-decls -O3 -O3 -DNDEBUG -o CMakeFiles/boolector.dir/btorclone.c.o -c /home/goose/BVArithmaticBenchmarkGenerator/boolector/src/btorclone.c",
+  "file": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/src/btorclone.c",
+  "output": "src/CMakeFiles/boolector.dir/btorclone.c.o"
+},
+{
+  "directory": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src",
+  "command": "/usr/bin/cc -DBTOR_HAVE_PTHREADS -DBTOR_HAVE_SIGNALS -DBTOR_USE_LINGELING -DBTOR_USE_MINISAT -DNBTORLOG -DNDEBUG -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/deps/install/include  -std=gnu99 -W -Wall -Wextra -Wredundant-decls -O3 -O3 -DNDEBUG -o CMakeFiles/boolector.dir/btorcore.c.o -c /home/goose/BVArithmaticBenchmarkGenerator/boolector/src/btorcore.c",
+  "file": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/src/btorcore.c",
+  "output": "src/CMakeFiles/boolector.dir/btorcore.c.o"
+},
+{
+  "directory": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src",
+  "command": "/usr/bin/cc -DBTOR_HAVE_PTHREADS -DBTOR_HAVE_SIGNALS -DBTOR_USE_LINGELING -DBTOR_USE_MINISAT -DNBTORLOG -DNDEBUG -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/deps/install/include  -std=gnu99 -W -Wall -Wextra -Wredundant-decls -O3 -O3 -DNDEBUG -o CMakeFiles/boolector.dir/btordbg.c.o -c /home/goose/BVArithmaticBenchmarkGenerator/boolector/src/btordbg.c",
+  "file": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/src/btordbg.c",
+  "output": "src/CMakeFiles/boolector.dir/btordbg.c.o"
+},
+{
+  "directory": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src",
+  "command": "/usr/bin/cc -DBTOR_HAVE_PTHREADS -DBTOR_HAVE_SIGNALS -DBTOR_USE_LINGELING -DBTOR_USE_MINISAT -DNBTORLOG -DNDEBUG -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/deps/install/include  -std=gnu99 -W -Wall -Wextra -Wredundant-decls -O3 -O3 -DNDEBUG -o CMakeFiles/boolector.dir/btordcr.c.o -c /home/goose/BVArithmaticBenchmarkGenerator/boolector/src/btordcr.c",
+  "file": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/src/btordcr.c",
+  "output": "src/CMakeFiles/boolector.dir/btordcr.c.o"
+},
+{
+  "directory": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src",
+  "command": "/usr/bin/cc -DBTOR_HAVE_PTHREADS -DBTOR_HAVE_SIGNALS -DBTOR_USE_LINGELING -DBTOR_USE_MINISAT -DNBTORLOG -DNDEBUG -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/deps/install/include  -std=gnu99 -W -Wall -Wextra -Wredundant-decls -O3 -O3 -DNDEBUG -o CMakeFiles/boolector.dir/btorexp.c.o -c /home/goose/BVArithmaticBenchmarkGenerator/boolector/src/btorexp.c",
+  "file": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/src/btorexp.c",
+  "output": "src/CMakeFiles/boolector.dir/btorexp.c.o"
+},
+{
+  "directory": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src",
+  "command": "/usr/bin/cc -DBTOR_HAVE_PTHREADS -DBTOR_HAVE_SIGNALS -DBTOR_USE_LINGELING -DBTOR_USE_MINISAT -DNBTORLOG -DNDEBUG -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/deps/install/include  -std=gnu99 -W -Wall -Wextra -Wredundant-decls -O3 -O3 -DNDEBUG -o CMakeFiles/boolector.dir/btorlsutils.c.o -c /home/goose/BVArithmaticBenchmarkGenerator/boolector/src/btorlsutils.c",
+  "file": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/src/btorlsutils.c",
+  "output": "src/CMakeFiles/boolector.dir/btorlsutils.c.o"
+},
+{
+  "directory": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src",
+  "command": "/usr/bin/cc -DBTOR_HAVE_PTHREADS -DBTOR_HAVE_SIGNALS -DBTOR_USE_LINGELING -DBTOR_USE_MINISAT -DNBTORLOG -DNDEBUG -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/deps/install/include  -std=gnu99 -W -Wall -Wextra -Wredundant-decls -O3 -O3 -DNDEBUG -o CMakeFiles/boolector.dir/btormc.c.o -c /home/goose/BVArithmaticBenchmarkGenerator/boolector/src/btormc.c",
+  "file": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/src/btormc.c",
+  "output": "src/CMakeFiles/boolector.dir/btormc.c.o"
+},
+{
+  "directory": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src",
+  "command": "/usr/bin/cc -DBTOR_HAVE_PTHREADS -DBTOR_HAVE_SIGNALS -DBTOR_USE_LINGELING -DBTOR_USE_MINISAT -DNBTORLOG -DNDEBUG -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/deps/install/include  -std=gnu99 -W -Wall -Wextra -Wredundant-decls -O3 -O3 -DNDEBUG -o CMakeFiles/boolector.dir/btormodel.c.o -c /home/goose/BVArithmaticBenchmarkGenerator/boolector/src/btormodel.c",
+  "file": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/src/btormodel.c",
+  "output": "src/CMakeFiles/boolector.dir/btormodel.c.o"
+},
+{
+  "directory": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src",
+  "command": "/usr/bin/cc -DBTOR_HAVE_PTHREADS -DBTOR_HAVE_SIGNALS -DBTOR_USE_LINGELING -DBTOR_USE_MINISAT -DNBTORLOG -DNDEBUG -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/deps/install/include  -std=gnu99 -W -Wall -Wextra -Wredundant-decls -O3 -O3 -DNDEBUG -o CMakeFiles/boolector.dir/btormsg.c.o -c /home/goose/BVArithmaticBenchmarkGenerator/boolector/src/btormsg.c",
+  "file": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/src/btormsg.c",
+  "output": "src/CMakeFiles/boolector.dir/btormsg.c.o"
+},
+{
+  "directory": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src",
+  "command": "/usr/bin/cc -DBTOR_HAVE_PTHREADS -DBTOR_HAVE_SIGNALS -DBTOR_USE_LINGELING -DBTOR_USE_MINISAT -DNBTORLOG -DNDEBUG -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/deps/install/include  -std=gnu99 -W -Wall -Wextra -Wredundant-decls -O3 -O3 -DNDEBUG -o CMakeFiles/boolector.dir/btornode.c.o -c /home/goose/BVArithmaticBenchmarkGenerator/boolector/src/btornode.c",
+  "file": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/src/btornode.c",
+  "output": "src/CMakeFiles/boolector.dir/btornode.c.o"
+},
+{
+  "directory": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src",
+  "command": "/usr/bin/cc -DBTOR_HAVE_PTHREADS -DBTOR_HAVE_SIGNALS -DBTOR_USE_LINGELING -DBTOR_USE_MINISAT -DNBTORLOG -DNDEBUG -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/deps/install/include  -std=gnu99 -W -Wall -Wextra -Wredundant-decls -O3 -O3 -DNDEBUG -o CMakeFiles/boolector.dir/btoropt.c.o -c /home/goose/BVArithmaticBenchmarkGenerator/boolector/src/btoropt.c",
+  "file": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/src/btoropt.c",
+  "output": "src/CMakeFiles/boolector.dir/btoropt.c.o"
+},
+{
+  "directory": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src",
+  "command": "/usr/bin/cc -DBTOR_HAVE_PTHREADS -DBTOR_HAVE_SIGNALS -DBTOR_USE_LINGELING -DBTOR_USE_MINISAT -DNBTORLOG -DNDEBUG -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/deps/install/include  -std=gnu99 -W -Wall -Wextra -Wredundant-decls -O3 -O3 -DNDEBUG -o CMakeFiles/boolector.dir/btorparse.c.o -c /home/goose/BVArithmaticBenchmarkGenerator/boolector/src/btorparse.c",
+  "file": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/src/btorparse.c",
+  "output": "src/CMakeFiles/boolector.dir/btorparse.c.o"
+},
+{
+  "directory": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src",
+  "command": "/usr/bin/cc -DBTOR_HAVE_PTHREADS -DBTOR_HAVE_SIGNALS -DBTOR_USE_LINGELING -DBTOR_USE_MINISAT -DNBTORLOG -DNDEBUG -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/deps/install/include  -std=gnu99 -W -Wall -Wextra -Wredundant-decls -O3 -O3 -DNDEBUG -o CMakeFiles/boolector.dir/btorprintmodel.c.o -c /home/goose/BVArithmaticBenchmarkGenerator/boolector/src/btorprintmodel.c",
+  "file": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/src/btorprintmodel.c",
+  "output": "src/CMakeFiles/boolector.dir/btorprintmodel.c.o"
+},
+{
+  "directory": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src",
+  "command": "/usr/bin/cc -DBTOR_HAVE_PTHREADS -DBTOR_HAVE_SIGNALS -DBTOR_USE_LINGELING -DBTOR_USE_MINISAT -DNBTORLOG -DNDEBUG -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/deps/install/include  -std=gnu99 -W -Wall -Wextra -Wredundant-decls -O3 -O3 -DNDEBUG -o CMakeFiles/boolector.dir/btorproputils.c.o -c /home/goose/BVArithmaticBenchmarkGenerator/boolector/src/btorproputils.c",
+  "file": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/src/btorproputils.c",
+  "output": "src/CMakeFiles/boolector.dir/btorproputils.c.o"
+},
+{
+  "directory": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src",
+  "command": "/usr/bin/cc -DBTOR_HAVE_PTHREADS -DBTOR_HAVE_SIGNALS -DBTOR_USE_LINGELING -DBTOR_USE_MINISAT -DNBTORLOG -DNDEBUG -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/deps/install/include  -std=gnu99 -W -Wall -Wextra -Wredundant-decls -O3 -O3 -DNDEBUG -o CMakeFiles/boolector.dir/btorrewrite.c.o -c /home/goose/BVArithmaticBenchmarkGenerator/boolector/src/btorrewrite.c",
+  "file": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/src/btorrewrite.c",
+  "output": "src/CMakeFiles/boolector.dir/btorrewrite.c.o"
+},
+{
+  "directory": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src",
+  "command": "/usr/bin/cc -DBTOR_HAVE_PTHREADS -DBTOR_HAVE_SIGNALS -DBTOR_USE_LINGELING -DBTOR_USE_MINISAT -DNBTORLOG -DNDEBUG -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/deps/install/include  -std=gnu99 -W -Wall -Wextra -Wredundant-decls -O3 -O3 -DNDEBUG -o CMakeFiles/boolector.dir/btorrwcache.c.o -c /home/goose/BVArithmaticBenchmarkGenerator/boolector/src/btorrwcache.c",
+  "file": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/src/btorrwcache.c",
+  "output": "src/CMakeFiles/boolector.dir/btorrwcache.c.o"
+},
+{
+  "directory": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src",
+  "command": "/usr/bin/cc -DBTOR_HAVE_PTHREADS -DBTOR_HAVE_SIGNALS -DBTOR_USE_LINGELING -DBTOR_USE_MINISAT -DNBTORLOG -DNDEBUG -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/deps/install/include  -std=gnu99 -W -Wall -Wextra -Wredundant-decls -O3 -O3 -DNDEBUG -o CMakeFiles/boolector.dir/btorsat.c.o -c /home/goose/BVArithmaticBenchmarkGenerator/boolector/src/btorsat.c",
+  "file": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/src/btorsat.c",
+  "output": "src/CMakeFiles/boolector.dir/btorsat.c.o"
+},
+{
+  "directory": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src",
+  "command": "/usr/bin/cc -DBTOR_HAVE_PTHREADS -DBTOR_HAVE_SIGNALS -DBTOR_USE_LINGELING -DBTOR_USE_MINISAT -DNBTORLOG -DNDEBUG -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/deps/install/include  -std=gnu99 -W -Wall -Wextra -Wredundant-decls -O3 -O3 -DNDEBUG -o CMakeFiles/boolector.dir/btorslsutils.c.o -c /home/goose/BVArithmaticBenchmarkGenerator/boolector/src/btorslsutils.c",
+  "file": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/src/btorslsutils.c",
+  "output": "src/CMakeFiles/boolector.dir/btorslsutils.c.o"
+},
+{
+  "directory": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src",
+  "command": "/usr/bin/cc -DBTOR_HAVE_PTHREADS -DBTOR_HAVE_SIGNALS -DBTOR_USE_LINGELING -DBTOR_USE_MINISAT -DNBTORLOG -DNDEBUG -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/deps/install/include  -std=gnu99 -W -Wall -Wextra -Wredundant-decls -O3 -O3 -DNDEBUG -o CMakeFiles/boolector.dir/btorslvaigprop.c.o -c /home/goose/BVArithmaticBenchmarkGenerator/boolector/src/btorslvaigprop.c",
+  "file": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/src/btorslvaigprop.c",
+  "output": "src/CMakeFiles/boolector.dir/btorslvaigprop.c.o"
+},
+{
+  "directory": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src",
+  "command": "/usr/bin/cc -DBTOR_HAVE_PTHREADS -DBTOR_HAVE_SIGNALS -DBTOR_USE_LINGELING -DBTOR_USE_MINISAT -DNBTORLOG -DNDEBUG -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/deps/install/include  -std=gnu99 -W -Wall -Wextra -Wredundant-decls -O3 -O3 -DNDEBUG -o CMakeFiles/boolector.dir/btorslvfun.c.o -c /home/goose/BVArithmaticBenchmarkGenerator/boolector/src/btorslvfun.c",
+  "file": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/src/btorslvfun.c",
+  "output": "src/CMakeFiles/boolector.dir/btorslvfun.c.o"
+},
+{
+  "directory": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src",
+  "command": "/usr/bin/cc -DBTOR_HAVE_PTHREADS -DBTOR_HAVE_SIGNALS -DBTOR_USE_LINGELING -DBTOR_USE_MINISAT -DNBTORLOG -DNDEBUG -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/deps/install/include  -std=gnu99 -W -Wall -Wextra -Wredundant-decls -O3 -O3 -DNDEBUG -o CMakeFiles/boolector.dir/btorslvprop.c.o -c /home/goose/BVArithmaticBenchmarkGenerator/boolector/src/btorslvprop.c",
+  "file": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/src/btorslvprop.c",
+  "output": "src/CMakeFiles/boolector.dir/btorslvprop.c.o"
+},
+{
+  "directory": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src",
+  "command": "/usr/bin/cc -DBTOR_HAVE_PTHREADS -DBTOR_HAVE_SIGNALS -DBTOR_USE_LINGELING -DBTOR_USE_MINISAT -DNBTORLOG -DNDEBUG -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/deps/install/include  -std=gnu99 -W -Wall -Wextra -Wredundant-decls -O3 -O3 -DNDEBUG -o CMakeFiles/boolector.dir/btorslvquant.c.o -c /home/goose/BVArithmaticBenchmarkGenerator/boolector/src/btorslvquant.c",
+  "file": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/src/btorslvquant.c",
+  "output": "src/CMakeFiles/boolector.dir/btorslvquant.c.o"
+},
+{
+  "directory": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src",
+  "command": "/usr/bin/cc -DBTOR_HAVE_PTHREADS -DBTOR_HAVE_SIGNALS -DBTOR_USE_LINGELING -DBTOR_USE_MINISAT -DNBTORLOG -DNDEBUG -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/deps/install/include  -std=gnu99 -W -Wall -Wextra -Wredundant-decls -O3 -O3 -DNDEBUG -o CMakeFiles/boolector.dir/btorslvsls.c.o -c /home/goose/BVArithmaticBenchmarkGenerator/boolector/src/btorslvsls.c",
+  "file": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/src/btorslvsls.c",
+  "output": "src/CMakeFiles/boolector.dir/btorslvsls.c.o"
+},
+{
+  "directory": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src",
+  "command": "/usr/bin/cc -DBTOR_HAVE_PTHREADS -DBTOR_HAVE_SIGNALS -DBTOR_USE_LINGELING -DBTOR_USE_MINISAT -DNBTORLOG -DNDEBUG -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/deps/install/include  -std=gnu99 -W -Wall -Wextra -Wredundant-decls -O3 -O3 -DNDEBUG -o CMakeFiles/boolector.dir/btorsort.c.o -c /home/goose/BVArithmaticBenchmarkGenerator/boolector/src/btorsort.c",
+  "file": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/src/btorsort.c",
+  "output": "src/CMakeFiles/boolector.dir/btorsort.c.o"
+},
+{
+  "directory": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src",
+  "command": "/usr/bin/cc -DBTOR_HAVE_PTHREADS -DBTOR_HAVE_SIGNALS -DBTOR_USE_LINGELING -DBTOR_USE_MINISAT -DNBTORLOG -DNDEBUG -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/deps/install/include  -std=gnu99 -W -Wall -Wextra -Wredundant-decls -O3 -O3 -DNDEBUG -o CMakeFiles/boolector.dir/btorsubst.c.o -c /home/goose/BVArithmaticBenchmarkGenerator/boolector/src/btorsubst.c",
+  "file": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/src/btorsubst.c",
+  "output": "src/CMakeFiles/boolector.dir/btorsubst.c.o"
+},
+{
+  "directory": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src",
+  "command": "/usr/bin/cc -DBTOR_HAVE_PTHREADS -DBTOR_HAVE_SIGNALS -DBTOR_USE_LINGELING -DBTOR_USE_MINISAT -DNBTORLOG -DNDEBUG -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/deps/install/include  -std=gnu99 -W -Wall -Wextra -Wredundant-decls -O3 -O3 -DNDEBUG -o CMakeFiles/boolector.dir/btorsynth.c.o -c /home/goose/BVArithmaticBenchmarkGenerator/boolector/src/btorsynth.c",
+  "file": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/src/btorsynth.c",
+  "output": "src/CMakeFiles/boolector.dir/btorsynth.c.o"
+},
+{
+  "directory": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src",
+  "command": "/usr/bin/cc -DBTOR_HAVE_PTHREADS -DBTOR_HAVE_SIGNALS -DBTOR_USE_LINGELING -DBTOR_USE_MINISAT -DNBTORLOG -DNDEBUG -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/deps/install/include  -std=gnu99 -W -Wall -Wextra -Wredundant-decls -O3 -O3 -DNDEBUG -o CMakeFiles/boolector.dir/btortrapi.c.o -c /home/goose/BVArithmaticBenchmarkGenerator/boolector/src/btortrapi.c",
+  "file": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/src/btortrapi.c",
+  "output": "src/CMakeFiles/boolector.dir/btortrapi.c.o"
+},
+{
+  "directory": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src",
+  "command": "/usr/bin/cc -DBTOR_HAVE_PTHREADS -DBTOR_HAVE_SIGNALS -DBTOR_USE_LINGELING -DBTOR_USE_MINISAT -DNBTORLOG -DNDEBUG -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/deps/install/include  -std=gnu99 -W -Wall -Wextra -Wredundant-decls -O3 -O3 -DNDEBUG -o CMakeFiles/boolector.dir/dumper/btordumpaig.c.o -c /home/goose/BVArithmaticBenchmarkGenerator/boolector/src/dumper/btordumpaig.c",
+  "file": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/src/dumper/btordumpaig.c",
+  "output": "src/CMakeFiles/boolector.dir/dumper/btordumpaig.c.o"
+},
+{
+  "directory": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src",
+  "command": "/usr/bin/cc -DBTOR_HAVE_PTHREADS -DBTOR_HAVE_SIGNALS -DBTOR_USE_LINGELING -DBTOR_USE_MINISAT -DNBTORLOG -DNDEBUG -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/deps/install/include  -std=gnu99 -W -Wall -Wextra -Wredundant-decls -O3 -O3 -DNDEBUG -o CMakeFiles/boolector.dir/dumper/btordumpbtor.c.o -c /home/goose/BVArithmaticBenchmarkGenerator/boolector/src/dumper/btordumpbtor.c",
+  "file": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/src/dumper/btordumpbtor.c",
+  "output": "src/CMakeFiles/boolector.dir/dumper/btordumpbtor.c.o"
+},
+{
+  "directory": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src",
+  "command": "/usr/bin/cc -DBTOR_HAVE_PTHREADS -DBTOR_HAVE_SIGNALS -DBTOR_USE_LINGELING -DBTOR_USE_MINISAT -DNBTORLOG -DNDEBUG -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/deps/install/include  -std=gnu99 -W -Wall -Wextra -Wredundant-decls -O3 -O3 -DNDEBUG -o CMakeFiles/boolector.dir/dumper/btordumpsmt.c.o -c /home/goose/BVArithmaticBenchmarkGenerator/boolector/src/dumper/btordumpsmt.c",
+  "file": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/src/dumper/btordumpsmt.c",
+  "output": "src/CMakeFiles/boolector.dir/dumper/btordumpsmt.c.o"
+},
+{
+  "directory": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src",
+  "command": "/usr/bin/cc -DBTOR_HAVE_PTHREADS -DBTOR_HAVE_SIGNALS -DBTOR_USE_LINGELING -DBTOR_USE_MINISAT -DNBTORLOG -DNDEBUG -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/deps/install/include  -std=gnu99 -W -Wall -Wextra -Wredundant-decls -O3 -O3 -DNDEBUG -o CMakeFiles/boolector.dir/parser/btorbtor.c.o -c /home/goose/BVArithmaticBenchmarkGenerator/boolector/src/parser/btorbtor.c",
+  "file": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/src/parser/btorbtor.c",
+  "output": "src/CMakeFiles/boolector.dir/parser/btorbtor.c.o"
+},
+{
+  "directory": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src",
+  "command": "/usr/bin/cc -DBTOR_HAVE_PTHREADS -DBTOR_HAVE_SIGNALS -DBTOR_USE_LINGELING -DBTOR_USE_MINISAT -DNBTORLOG -DNDEBUG -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/deps/install/include  -std=gnu99 -W -Wall -Wextra -Wredundant-decls -O3 -O3 -DNDEBUG -o CMakeFiles/boolector.dir/parser/btorbtor2.c.o -c /home/goose/BVArithmaticBenchmarkGenerator/boolector/src/parser/btorbtor2.c",
+  "file": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/src/parser/btorbtor2.c",
+  "output": "src/CMakeFiles/boolector.dir/parser/btorbtor2.c.o"
+},
+{
+  "directory": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src",
+  "command": "/usr/bin/cc -DBTOR_HAVE_PTHREADS -DBTOR_HAVE_SIGNALS -DBTOR_USE_LINGELING -DBTOR_USE_MINISAT -DNBTORLOG -DNDEBUG -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/deps/install/include  -std=gnu99 -W -Wall -Wextra -Wredundant-decls -O3 -O3 -DNDEBUG -o CMakeFiles/boolector.dir/parser/btorsmt.c.o -c /home/goose/BVArithmaticBenchmarkGenerator/boolector/src/parser/btorsmt.c",
+  "file": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/src/parser/btorsmt.c",
+  "output": "src/CMakeFiles/boolector.dir/parser/btorsmt.c.o"
+},
+{
+  "directory": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src",
+  "command": "/usr/bin/cc -DBTOR_HAVE_PTHREADS -DBTOR_HAVE_SIGNALS -DBTOR_USE_LINGELING -DBTOR_USE_MINISAT -DNBTORLOG -DNDEBUG -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/deps/install/include  -std=gnu99 -W -Wall -Wextra -Wredundant-decls -O3 -O3 -DNDEBUG -o CMakeFiles/boolector.dir/parser/btorsmt2.c.o -c /home/goose/BVArithmaticBenchmarkGenerator/boolector/src/parser/btorsmt2.c",
+  "file": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/src/parser/btorsmt2.c",
+  "output": "src/CMakeFiles/boolector.dir/parser/btorsmt2.c.o"
+},
+{
+  "directory": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src",
+  "command": "/usr/bin/cc -DBTOR_HAVE_PTHREADS -DBTOR_HAVE_SIGNALS -DBTOR_USE_LINGELING -DBTOR_USE_MINISAT -DNBTORLOG -DNDEBUG -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/deps/install/include  -std=gnu99 -W -Wall -Wextra -Wredundant-decls -O3 -O3 -DNDEBUG -o CMakeFiles/boolector.dir/preprocess/btorpputils.c.o -c /home/goose/BVArithmaticBenchmarkGenerator/boolector/src/preprocess/btorpputils.c",
+  "file": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/src/preprocess/btorpputils.c",
+  "output": "src/CMakeFiles/boolector.dir/preprocess/btorpputils.c.o"
+},
+{
+  "directory": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src",
+  "command": "/usr/bin/cc -DBTOR_HAVE_PTHREADS -DBTOR_HAVE_SIGNALS -DBTOR_USE_LINGELING -DBTOR_USE_MINISAT -DNBTORLOG -DNDEBUG -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/deps/install/include  -std=gnu99 -W -Wall -Wextra -Wredundant-decls -O3 -O3 -DNDEBUG -o CMakeFiles/boolector.dir/preprocess/btorack.c.o -c /home/goose/BVArithmaticBenchmarkGenerator/boolector/src/preprocess/btorack.c",
+  "file": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/src/preprocess/btorack.c",
+  "output": "src/CMakeFiles/boolector.dir/preprocess/btorack.c.o"
+},
+{
+  "directory": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src",
+  "command": "/usr/bin/cc -DBTOR_HAVE_PTHREADS -DBTOR_HAVE_SIGNALS -DBTOR_USE_LINGELING -DBTOR_USE_MINISAT -DNBTORLOG -DNDEBUG -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/deps/install/include  -std=gnu99 -W -Wall -Wextra -Wredundant-decls -O3 -O3 -DNDEBUG -o CMakeFiles/boolector.dir/preprocess/btorder.c.o -c /home/goose/BVArithmaticBenchmarkGenerator/boolector/src/preprocess/btorder.c",
+  "file": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/src/preprocess/btorder.c",
+  "output": "src/CMakeFiles/boolector.dir/preprocess/btorder.c.o"
+},
+{
+  "directory": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src",
+  "command": "/usr/bin/cc -DBTOR_HAVE_PTHREADS -DBTOR_HAVE_SIGNALS -DBTOR_USE_LINGELING -DBTOR_USE_MINISAT -DNBTORLOG -DNDEBUG -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/deps/install/include  -std=gnu99 -W -Wall -Wextra -Wredundant-decls -O3 -O3 -DNDEBUG -o CMakeFiles/boolector.dir/preprocess/btorelimapplies.c.o -c /home/goose/BVArithmaticBenchmarkGenerator/boolector/src/preprocess/btorelimapplies.c",
+  "file": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/src/preprocess/btorelimapplies.c",
+  "output": "src/CMakeFiles/boolector.dir/preprocess/btorelimapplies.c.o"
+},
+{
+  "directory": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src",
+  "command": "/usr/bin/cc -DBTOR_HAVE_PTHREADS -DBTOR_HAVE_SIGNALS -DBTOR_USE_LINGELING -DBTOR_USE_MINISAT -DNBTORLOG -DNDEBUG -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/deps/install/include  -std=gnu99 -W -Wall -Wextra -Wredundant-decls -O3 -O3 -DNDEBUG -o CMakeFiles/boolector.dir/preprocess/btorelimslices.c.o -c /home/goose/BVArithmaticBenchmarkGenerator/boolector/src/preprocess/btorelimslices.c",
+  "file": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/src/preprocess/btorelimslices.c",
+  "output": "src/CMakeFiles/boolector.dir/preprocess/btorelimslices.c.o"
+},
+{
+  "directory": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src",
+  "command": "/usr/bin/cc -DBTOR_HAVE_PTHREADS -DBTOR_HAVE_SIGNALS -DBTOR_USE_LINGELING -DBTOR_USE_MINISAT -DNBTORLOG -DNDEBUG -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/deps/install/include  -std=gnu99 -W -Wall -Wextra -Wredundant-decls -O3 -O3 -DNDEBUG -o CMakeFiles/boolector.dir/preprocess/btorembed.c.o -c /home/goose/BVArithmaticBenchmarkGenerator/boolector/src/preprocess/btorembed.c",
+  "file": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/src/preprocess/btorembed.c",
+  "output": "src/CMakeFiles/boolector.dir/preprocess/btorembed.c.o"
+},
+{
+  "directory": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src",
+  "command": "/usr/bin/cc -DBTOR_HAVE_PTHREADS -DBTOR_HAVE_SIGNALS -DBTOR_USE_LINGELING -DBTOR_USE_MINISAT -DNBTORLOG -DNDEBUG -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/deps/install/include  -std=gnu99 -W -Wall -Wextra -Wredundant-decls -O3 -O3 -DNDEBUG -o CMakeFiles/boolector.dir/preprocess/btorextract.c.o -c /home/goose/BVArithmaticBenchmarkGenerator/boolector/src/preprocess/btorextract.c",
+  "file": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/src/preprocess/btorextract.c",
+  "output": "src/CMakeFiles/boolector.dir/preprocess/btorextract.c.o"
+},
+{
+  "directory": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src",
+  "command": "/usr/bin/cc -DBTOR_HAVE_PTHREADS -DBTOR_HAVE_SIGNALS -DBTOR_USE_LINGELING -DBTOR_USE_MINISAT -DNBTORLOG -DNDEBUG -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/deps/install/include  -std=gnu99 -W -Wall -Wextra -Wredundant-decls -O3 -O3 -DNDEBUG -o CMakeFiles/boolector.dir/preprocess/btormerge.c.o -c /home/goose/BVArithmaticBenchmarkGenerator/boolector/src/preprocess/btormerge.c",
+  "file": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/src/preprocess/btormerge.c",
+  "output": "src/CMakeFiles/boolector.dir/preprocess/btormerge.c.o"
+},
+{
+  "directory": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src",
+  "command": "/usr/bin/cc -DBTOR_HAVE_PTHREADS -DBTOR_HAVE_SIGNALS -DBTOR_USE_LINGELING -DBTOR_USE_MINISAT -DNBTORLOG -DNDEBUG -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/deps/install/include  -std=gnu99 -W -Wall -Wextra -Wredundant-decls -O3 -O3 -DNDEBUG -o CMakeFiles/boolector.dir/preprocess/btorminiscope.c.o -c /home/goose/BVArithmaticBenchmarkGenerator/boolector/src/preprocess/btorminiscope.c",
+  "file": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/src/preprocess/btorminiscope.c",
+  "output": "src/CMakeFiles/boolector.dir/preprocess/btorminiscope.c.o"
+},
+{
+  "directory": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src",
+  "command": "/usr/bin/cc -DBTOR_HAVE_PTHREADS -DBTOR_HAVE_SIGNALS -DBTOR_USE_LINGELING -DBTOR_USE_MINISAT -DNBTORLOG -DNDEBUG -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/deps/install/include  -std=gnu99 -W -Wall -Wextra -Wredundant-decls -O3 -O3 -DNDEBUG -o CMakeFiles/boolector.dir/preprocess/btornormadd.c.o -c /home/goose/BVArithmaticBenchmarkGenerator/boolector/src/preprocess/btornormadd.c",
+  "file": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/src/preprocess/btornormadd.c",
+  "output": "src/CMakeFiles/boolector.dir/preprocess/btornormadd.c.o"
+},
+{
+  "directory": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src",
+  "command": "/usr/bin/cc -DBTOR_HAVE_PTHREADS -DBTOR_HAVE_SIGNALS -DBTOR_USE_LINGELING -DBTOR_USE_MINISAT -DNBTORLOG -DNDEBUG -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/deps/install/include  -std=gnu99 -W -Wall -Wextra -Wredundant-decls -O3 -O3 -DNDEBUG -o CMakeFiles/boolector.dir/preprocess/btornormquant.c.o -c /home/goose/BVArithmaticBenchmarkGenerator/boolector/src/preprocess/btornormquant.c",
+  "file": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/src/preprocess/btornormquant.c",
+  "output": "src/CMakeFiles/boolector.dir/preprocess/btornormquant.c.o"
+},
+{
+  "directory": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src",
+  "command": "/usr/bin/cc -DBTOR_HAVE_PTHREADS -DBTOR_HAVE_SIGNALS -DBTOR_USE_LINGELING -DBTOR_USE_MINISAT -DNBTORLOG -DNDEBUG -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/deps/install/include  -std=gnu99 -W -Wall -Wextra -Wredundant-decls -O3 -O3 -DNDEBUG -o CMakeFiles/boolector.dir/preprocess/btorpreprocess.c.o -c /home/goose/BVArithmaticBenchmarkGenerator/boolector/src/preprocess/btorpreprocess.c",
+  "file": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/src/preprocess/btorpreprocess.c",
+  "output": "src/CMakeFiles/boolector.dir/preprocess/btorpreprocess.c.o"
+},
+{
+  "directory": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src",
+  "command": "/usr/bin/cc -DBTOR_HAVE_PTHREADS -DBTOR_HAVE_SIGNALS -DBTOR_USE_LINGELING -DBTOR_USE_MINISAT -DNBTORLOG -DNDEBUG -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/deps/install/include  -std=gnu99 -W -Wall -Wextra -Wredundant-decls -O3 -O3 -DNDEBUG -o CMakeFiles/boolector.dir/preprocess/btorskel.c.o -c /home/goose/BVArithmaticBenchmarkGenerator/boolector/src/preprocess/btorskel.c",
+  "file": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/src/preprocess/btorskel.c",
+  "output": "src/CMakeFiles/boolector.dir/preprocess/btorskel.c.o"
+},
+{
+  "directory": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src",
+  "command": "/usr/bin/cc -DBTOR_HAVE_PTHREADS -DBTOR_HAVE_SIGNALS -DBTOR_USE_LINGELING -DBTOR_USE_MINISAT -DNBTORLOG -DNDEBUG -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/deps/install/include  -std=gnu99 -W -Wall -Wextra -Wredundant-decls -O3 -O3 -DNDEBUG -o CMakeFiles/boolector.dir/preprocess/btorskolemize.c.o -c /home/goose/BVArithmaticBenchmarkGenerator/boolector/src/preprocess/btorskolemize.c",
+  "file": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/src/preprocess/btorskolemize.c",
+  "output": "src/CMakeFiles/boolector.dir/preprocess/btorskolemize.c.o"
+},
+{
+  "directory": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src",
+  "command": "/usr/bin/cc -DBTOR_HAVE_PTHREADS -DBTOR_HAVE_SIGNALS -DBTOR_USE_LINGELING -DBTOR_USE_MINISAT -DNBTORLOG -DNDEBUG -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/deps/install/include  -std=gnu99 -W -Wall -Wextra -Wredundant-decls -O3 -O3 -DNDEBUG -o CMakeFiles/boolector.dir/preprocess/btorunconstrained.c.o -c /home/goose/BVArithmaticBenchmarkGenerator/boolector/src/preprocess/btorunconstrained.c",
+  "file": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/src/preprocess/btorunconstrained.c",
+  "output": "src/CMakeFiles/boolector.dir/preprocess/btorunconstrained.c.o"
+},
+{
+  "directory": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src",
+  "command": "/usr/bin/cc -DBTOR_HAVE_PTHREADS -DBTOR_HAVE_SIGNALS -DBTOR_USE_LINGELING -DBTOR_USE_MINISAT -DNBTORLOG -DNDEBUG -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/deps/install/include  -std=gnu99 -W -Wall -Wextra -Wredundant-decls -O3 -O3 -DNDEBUG -o CMakeFiles/boolector.dir/preprocess/btorvarsubst.c.o -c /home/goose/BVArithmaticBenchmarkGenerator/boolector/src/preprocess/btorvarsubst.c",
+  "file": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/src/preprocess/btorvarsubst.c",
+  "output": "src/CMakeFiles/boolector.dir/preprocess/btorvarsubst.c.o"
+},
+{
+  "directory": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src",
+  "command": "/usr/bin/cc -DBTOR_HAVE_PTHREADS -DBTOR_HAVE_SIGNALS -DBTOR_USE_LINGELING -DBTOR_USE_MINISAT -DNBTORLOG -DNDEBUG -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/deps/install/include  -std=gnu99 -W -Wall -Wextra -Wredundant-decls -O3 -O3 -DNDEBUG -o CMakeFiles/boolector.dir/sat/btorcadical.c.o -c /home/goose/BVArithmaticBenchmarkGenerator/boolector/src/sat/btorcadical.c",
+  "file": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/src/sat/btorcadical.c",
+  "output": "src/CMakeFiles/boolector.dir/sat/btorcadical.c.o"
+},
+{
+  "directory": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src",
+  "command": "/usr/bin/c++ -DBTOR_HAVE_PTHREADS -DBTOR_HAVE_SIGNALS -DBTOR_USE_LINGELING -DBTOR_USE_MINISAT -DNBTORLOG -DNDEBUG -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/deps/install/include  -std=gnu++11 -W -Wall -Wextra -Wredundant-decls -O3 -O3 -DNDEBUG -o CMakeFiles/boolector.dir/sat/btorcms.cc.o -c /home/goose/BVArithmaticBenchmarkGenerator/boolector/src/sat/btorcms.cc",
+  "file": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/src/sat/btorcms.cc",
+  "output": "src/CMakeFiles/boolector.dir/sat/btorcms.cc.o"
+},
+{
+  "directory": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src",
+  "command": "/usr/bin/cc -DBTOR_HAVE_PTHREADS -DBTOR_HAVE_SIGNALS -DBTOR_USE_LINGELING -DBTOR_USE_MINISAT -DNBTORLOG -DNDEBUG -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/deps/install/include  -std=gnu99 -W -Wall -Wextra -Wredundant-decls -O3 -O3 -DNDEBUG -o CMakeFiles/boolector.dir/sat/btorlgl.c.o -c /home/goose/BVArithmaticBenchmarkGenerator/boolector/src/sat/btorlgl.c",
+  "file": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/src/sat/btorlgl.c",
+  "output": "src/CMakeFiles/boolector.dir/sat/btorlgl.c.o"
+},
+{
+  "directory": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src",
+  "command": "/usr/bin/c++ -DBTOR_HAVE_PTHREADS -DBTOR_HAVE_SIGNALS -DBTOR_USE_LINGELING -DBTOR_USE_MINISAT -DNBTORLOG -DNDEBUG -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/deps/install/include  -std=gnu++11 -W -Wall -Wextra -Wredundant-decls -O3 -O3 -DNDEBUG -o CMakeFiles/boolector.dir/sat/btorminisat.cc.o -c /home/goose/BVArithmaticBenchmarkGenerator/boolector/src/sat/btorminisat.cc",
+  "file": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/src/sat/btorminisat.cc",
+  "output": "src/CMakeFiles/boolector.dir/sat/btorminisat.cc.o"
+},
+{
+  "directory": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src",
+  "command": "/usr/bin/cc -DBTOR_HAVE_PTHREADS -DBTOR_HAVE_SIGNALS -DBTOR_USE_LINGELING -DBTOR_USE_MINISAT -DNBTORLOG -DNDEBUG -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/deps/install/include  -std=gnu99 -W -Wall -Wextra -Wredundant-decls -O3 -O3 -DNDEBUG -o CMakeFiles/boolector.dir/sat/btorpicosat.c.o -c /home/goose/BVArithmaticBenchmarkGenerator/boolector/src/sat/btorpicosat.c",
+  "file": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/src/sat/btorpicosat.c",
+  "output": "src/CMakeFiles/boolector.dir/sat/btorpicosat.c.o"
+},
+{
+  "directory": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src",
+  "command": "/usr/bin/cc -DBTOR_HAVE_PTHREADS -DBTOR_HAVE_SIGNALS -DBTOR_USE_LINGELING -DBTOR_USE_MINISAT -DNBTORLOG -DNDEBUG -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/deps/install/include  -std=gnu99 -W -Wall -Wextra -Wredundant-decls -O3 -O3 -DNDEBUG -o CMakeFiles/boolector.dir/utils/boolectornodemap.c.o -c /home/goose/BVArithmaticBenchmarkGenerator/boolector/src/utils/boolectornodemap.c",
+  "file": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/src/utils/boolectornodemap.c",
+  "output": "src/CMakeFiles/boolector.dir/utils/boolectornodemap.c.o"
+},
+{
+  "directory": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src",
+  "command": "/usr/bin/cc -DBTOR_HAVE_PTHREADS -DBTOR_HAVE_SIGNALS -DBTOR_USE_LINGELING -DBTOR_USE_MINISAT -DNBTORLOG -DNDEBUG -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/deps/install/include  -std=gnu99 -W -Wall -Wextra -Wredundant-decls -O3 -O3 -DNDEBUG -o CMakeFiles/boolector.dir/utils/btoraigmap.c.o -c /home/goose/BVArithmaticBenchmarkGenerator/boolector/src/utils/btoraigmap.c",
+  "file": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/src/utils/btoraigmap.c",
+  "output": "src/CMakeFiles/boolector.dir/utils/btoraigmap.c.o"
+},
+{
+  "directory": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src",
+  "command": "/usr/bin/cc -DBTOR_HAVE_PTHREADS -DBTOR_HAVE_SIGNALS -DBTOR_USE_LINGELING -DBTOR_USE_MINISAT -DNBTORLOG -DNDEBUG -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/deps/install/include  -std=gnu99 -W -Wall -Wextra -Wredundant-decls -O3 -O3 -DNDEBUG -o CMakeFiles/boolector.dir/utils/btorhashint.c.o -c /home/goose/BVArithmaticBenchmarkGenerator/boolector/src/utils/btorhashint.c",
+  "file": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/src/utils/btorhashint.c",
+  "output": "src/CMakeFiles/boolector.dir/utils/btorhashint.c.o"
+},
+{
+  "directory": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src",
+  "command": "/usr/bin/cc -DBTOR_HAVE_PTHREADS -DBTOR_HAVE_SIGNALS -DBTOR_USE_LINGELING -DBTOR_USE_MINISAT -DNBTORLOG -DNDEBUG -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/deps/install/include  -std=gnu99 -W -Wall -Wextra -Wredundant-decls -O3 -O3 -DNDEBUG -o CMakeFiles/boolector.dir/utils/btorhashptr.c.o -c /home/goose/BVArithmaticBenchmarkGenerator/boolector/src/utils/btorhashptr.c",
+  "file": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/src/utils/btorhashptr.c",
+  "output": "src/CMakeFiles/boolector.dir/utils/btorhashptr.c.o"
+},
+{
+  "directory": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src",
+  "command": "/usr/bin/cc -DBTOR_HAVE_PTHREADS -DBTOR_HAVE_SIGNALS -DBTOR_USE_LINGELING -DBTOR_USE_MINISAT -DNBTORLOG -DNDEBUG -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/deps/install/include  -std=gnu99 -W -Wall -Wextra -Wredundant-decls -O3 -O3 -DNDEBUG -o CMakeFiles/boolector.dir/utils/btormem.c.o -c /home/goose/BVArithmaticBenchmarkGenerator/boolector/src/utils/btormem.c",
+  "file": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/src/utils/btormem.c",
+  "output": "src/CMakeFiles/boolector.dir/utils/btormem.c.o"
+},
+{
+  "directory": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src",
+  "command": "/usr/bin/cc -DBTOR_HAVE_PTHREADS -DBTOR_HAVE_SIGNALS -DBTOR_USE_LINGELING -DBTOR_USE_MINISAT -DNBTORLOG -DNDEBUG -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/deps/install/include  -std=gnu99 -W -Wall -Wextra -Wredundant-decls -O3 -O3 -DNDEBUG -o CMakeFiles/boolector.dir/utils/btornodeiter.c.o -c /home/goose/BVArithmaticBenchmarkGenerator/boolector/src/utils/btornodeiter.c",
+  "file": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/src/utils/btornodeiter.c",
+  "output": "src/CMakeFiles/boolector.dir/utils/btornodeiter.c.o"
+},
+{
+  "directory": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src",
+  "command": "/usr/bin/cc -DBTOR_HAVE_PTHREADS -DBTOR_HAVE_SIGNALS -DBTOR_USE_LINGELING -DBTOR_USE_MINISAT -DNBTORLOG -DNDEBUG -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/deps/install/include  -std=gnu99 -W -Wall -Wextra -Wredundant-decls -O3 -O3 -DNDEBUG -o CMakeFiles/boolector.dir/utils/btornodemap.c.o -c /home/goose/BVArithmaticBenchmarkGenerator/boolector/src/utils/btornodemap.c",
+  "file": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/src/utils/btornodemap.c",
+  "output": "src/CMakeFiles/boolector.dir/utils/btornodemap.c.o"
+},
+{
+  "directory": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src",
+  "command": "/usr/bin/cc -DBTOR_HAVE_PTHREADS -DBTOR_HAVE_SIGNALS -DBTOR_USE_LINGELING -DBTOR_USE_MINISAT -DNBTORLOG -DNDEBUG -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/deps/install/include  -std=gnu99 -W -Wall -Wextra -Wredundant-decls -O3 -O3 -DNDEBUG -o CMakeFiles/boolector.dir/utils/btoroptparse.c.o -c /home/goose/BVArithmaticBenchmarkGenerator/boolector/src/utils/btoroptparse.c",
+  "file": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/src/utils/btoroptparse.c",
+  "output": "src/CMakeFiles/boolector.dir/utils/btoroptparse.c.o"
+},
+{
+  "directory": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src",
+  "command": "/usr/bin/cc -DBTOR_HAVE_PTHREADS -DBTOR_HAVE_SIGNALS -DBTOR_USE_LINGELING -DBTOR_USE_MINISAT -DNBTORLOG -DNDEBUG -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/deps/install/include  -std=gnu99 -W -Wall -Wextra -Wredundant-decls -O3 -O3 -DNDEBUG -o CMakeFiles/boolector.dir/utils/btorpartgen.c.o -c /home/goose/BVArithmaticBenchmarkGenerator/boolector/src/utils/btorpartgen.c",
+  "file": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/src/utils/btorpartgen.c",
+  "output": "src/CMakeFiles/boolector.dir/utils/btorpartgen.c.o"
+},
+{
+  "directory": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src",
+  "command": "/usr/bin/cc -DBTOR_HAVE_PTHREADS -DBTOR_HAVE_SIGNALS -DBTOR_USE_LINGELING -DBTOR_USE_MINISAT -DNBTORLOG -DNDEBUG -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/deps/install/include  -std=gnu99 -W -Wall -Wextra -Wredundant-decls -O3 -O3 -DNDEBUG -o CMakeFiles/boolector.dir/utils/btorrng.c.o -c /home/goose/BVArithmaticBenchmarkGenerator/boolector/src/utils/btorrng.c",
+  "file": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/src/utils/btorrng.c",
+  "output": "src/CMakeFiles/boolector.dir/utils/btorrng.c.o"
+},
+{
+  "directory": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src",
+  "command": "/usr/bin/cc -DBTOR_HAVE_PTHREADS -DBTOR_HAVE_SIGNALS -DBTOR_USE_LINGELING -DBTOR_USE_MINISAT -DNBTORLOG -DNDEBUG -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/deps/install/include  -std=gnu99 -W -Wall -Wextra -Wredundant-decls -O3 -O3 -DNDEBUG -o CMakeFiles/boolector.dir/utils/btorunionfind.c.o -c /home/goose/BVArithmaticBenchmarkGenerator/boolector/src/utils/btorunionfind.c",
+  "file": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/src/utils/btorunionfind.c",
+  "output": "src/CMakeFiles/boolector.dir/utils/btorunionfind.c.o"
+},
+{
+  "directory": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src",
+  "command": "/usr/bin/cc -DBTOR_HAVE_PTHREADS -DBTOR_HAVE_SIGNALS -DBTOR_USE_LINGELING -DBTOR_USE_MINISAT -DNBTORLOG -DNDEBUG -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/deps/install/include  -std=gnu99 -W -Wall -Wextra -Wredundant-decls -O3 -O3 -DNDEBUG -o CMakeFiles/boolector.dir/utils/btorutil.c.o -c /home/goose/BVArithmaticBenchmarkGenerator/boolector/src/utils/btorutil.c",
+  "file": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/src/utils/btorutil.c",
+  "output": "src/CMakeFiles/boolector.dir/utils/btorutil.c.o"
+},
+{
+  "directory": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src",
+  "command": "/usr/bin/cc -DBTOR_HAVE_PTHREADS -DBTOR_HAVE_SIGNALS -DBTOR_USE_LINGELING -DBTOR_USE_MINISAT -DNBTORLOG -DNDEBUG -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src  -std=gnu99 -W -Wall -Wextra -Wredundant-decls -O3 -O3 -DNDEBUG -o CMakeFiles/boolector-bin.dir/boolectormain.c.o -c /home/goose/BVArithmaticBenchmarkGenerator/boolector/src/boolectormain.c",
+  "file": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/src/boolectormain.c",
+  "output": "src/CMakeFiles/boolector-bin.dir/boolectormain.c.o"
+},
+{
+  "directory": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src",
+  "command": "/usr/bin/cc -DBTOR_HAVE_PTHREADS -DBTOR_HAVE_SIGNALS -DBTOR_USE_LINGELING -DBTOR_USE_MINISAT -DNBTORLOG -DNDEBUG -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src  -std=gnu99 -W -Wall -Wextra -Wredundant-decls -O3 -O3 -DNDEBUG -o CMakeFiles/boolector-bin.dir/btormain.c.o -c /home/goose/BVArithmaticBenchmarkGenerator/boolector/src/btormain.c",
+  "file": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/src/btormain.c",
+  "output": "src/CMakeFiles/boolector-bin.dir/btormain.c.o"
+},
+{
+  "directory": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src",
+  "command": "/usr/bin/cc -DBTOR_HAVE_PTHREADS -DBTOR_HAVE_SIGNALS -DBTOR_USE_LINGELING -DBTOR_USE_MINISAT -DNBTORLOG -DNDEBUG -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/deps/install/include  -std=gnu99 -W -Wall -Wextra -Wredundant-decls -O3 -O3 -DNDEBUG -o CMakeFiles/btormc.dir/btormcmain.c.o -c /home/goose/BVArithmaticBenchmarkGenerator/boolector/src/btormcmain.c",
+  "file": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/src/btormcmain.c",
+  "output": "src/CMakeFiles/btormc.dir/btormcmain.c.o"
+},
+{
+  "directory": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src",
+  "command": "/usr/bin/cc -DBTOR_HAVE_PTHREADS -DBTOR_HAVE_SIGNALS -DBTOR_USE_LINGELING -DBTOR_USE_MINISAT -DNBTORLOG -DNDEBUG -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src  -std=gnu99 -W -Wall -Wextra -Wredundant-decls -O3 -O3 -DNDEBUG -o CMakeFiles/btormbt.dir/btormbt.c.o -c /home/goose/BVArithmaticBenchmarkGenerator/boolector/src/btormbt.c",
+  "file": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/src/btormbt.c",
+  "output": "src/CMakeFiles/btormbt.dir/btormbt.c.o"
+},
+{
+  "directory": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src",
+  "command": "/usr/bin/cc -DBTOR_HAVE_PTHREADS -DBTOR_HAVE_SIGNALS -DBTOR_USE_LINGELING -DBTOR_USE_MINISAT -DNBTORLOG -DNDEBUG -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src  -std=gnu99 -W -Wall -Wextra -Wredundant-decls -O3 -O3 -DNDEBUG -o CMakeFiles/btoruntrace.dir/btoruntrace.c.o -c /home/goose/BVArithmaticBenchmarkGenerator/boolector/src/btoruntrace.c",
+  "file": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/src/btoruntrace.c",
+  "output": "src/CMakeFiles/btoruntrace.dir/btoruntrace.c.o"
+},
+{
+  "directory": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src",
+  "command": "/usr/bin/c++ -DBTOR_HAVE_PTHREADS -DBTOR_HAVE_SIGNALS -DBTOR_USE_LINGELING -DBTOR_USE_MINISAT -DNBTORLOG -DNDEBUG -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src  -std=gnu++11 -W -Wall -Wextra -Wredundant-decls -O3 -O3 -DNDEBUG -o CMakeFiles/btorimc.dir/btoribv.cc.o -c /home/goose/BVArithmaticBenchmarkGenerator/boolector/src/btoribv.cc",
+  "file": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/src/btoribv.cc",
+  "output": "src/CMakeFiles/btorimc.dir/btoribv.cc.o"
+},
+{
+  "directory": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src",
+  "command": "/usr/bin/c++ -DBTOR_HAVE_PTHREADS -DBTOR_HAVE_SIGNALS -DBTOR_USE_LINGELING -DBTOR_USE_MINISAT -DNBTORLOG -DNDEBUG -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src  -std=gnu++11 -W -Wall -Wextra -Wredundant-decls -O3 -O3 -DNDEBUG -o CMakeFiles/btorimc.dir/btorimc.cc.o -c /home/goose/BVArithmaticBenchmarkGenerator/boolector/src/btorimc.cc",
+  "file": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/src/btorimc.cc",
+  "output": "src/CMakeFiles/btorimc.dir/btorimc.cc.o"
+},
+{
+  "directory": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/examples/api/c",
+  "command": "/usr/bin/cc -DBTOR_HAVE_PTHREADS -DBTOR_HAVE_SIGNALS -DBTOR_USE_LINGELING -DBTOR_USE_MINISAT -DNBTORLOG -DNDEBUG -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src  -std=gnu99 -W -Wall -Wextra -Wredundant-decls -O3 -O3 -DNDEBUG -o CMakeFiles/array1.dir/array/array1.c.o -c /home/goose/BVArithmaticBenchmarkGenerator/boolector/examples/api/c/array/array1.c",
+  "file": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/examples/api/c/array/array1.c",
+  "output": "examples/api/c/CMakeFiles/array1.dir/array/array1.c.o"
+},
+{
+  "directory": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/examples/api/c",
+  "command": "/usr/bin/cc -DBTOR_HAVE_PTHREADS -DBTOR_HAVE_SIGNALS -DBTOR_USE_LINGELING -DBTOR_USE_MINISAT -DNBTORLOG -DNDEBUG -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src  -std=gnu99 -W -Wall -Wextra -Wredundant-decls -O3 -O3 -DNDEBUG -o CMakeFiles/array2.dir/array/array2.c.o -c /home/goose/BVArithmaticBenchmarkGenerator/boolector/examples/api/c/array/array2.c",
+  "file": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/examples/api/c/array/array2.c",
+  "output": "examples/api/c/CMakeFiles/array2.dir/array/array2.c.o"
+},
+{
+  "directory": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/examples/api/c",
+  "command": "/usr/bin/cc -DBTOR_HAVE_PTHREADS -DBTOR_HAVE_SIGNALS -DBTOR_USE_LINGELING -DBTOR_USE_MINISAT -DNBTORLOG -DNDEBUG -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src  -std=gnu99 -W -Wall -Wextra -Wredundant-decls -O3 -O3 -DNDEBUG -o CMakeFiles/array3.dir/array/array3.c.o -c /home/goose/BVArithmaticBenchmarkGenerator/boolector/examples/api/c/array/array3.c",
+  "file": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/examples/api/c/array/array3.c",
+  "output": "examples/api/c/CMakeFiles/array3.dir/array/array3.c.o"
+},
+{
+  "directory": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/examples/api/c",
+  "command": "/usr/bin/cc -DBTOR_HAVE_PTHREADS -DBTOR_HAVE_SIGNALS -DBTOR_USE_LINGELING -DBTOR_USE_MINISAT -DNBTORLOG -DNDEBUG -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src  -std=gnu99 -W -Wall -Wextra -Wredundant-decls -O3 -O3 -DNDEBUG -o CMakeFiles/binarysearch.dir/binarysearch/binarysearch.c.o -c /home/goose/BVArithmaticBenchmarkGenerator/boolector/examples/api/c/binarysearch/binarysearch.c",
+  "file": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/examples/api/c/binarysearch/binarysearch.c",
+  "output": "examples/api/c/CMakeFiles/binarysearch.dir/binarysearch/binarysearch.c.o"
+},
+{
+  "directory": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/examples/api/c",
+  "command": "/usr/bin/cc -DBTOR_HAVE_PTHREADS -DBTOR_HAVE_SIGNALS -DBTOR_USE_LINGELING -DBTOR_USE_MINISAT -DNBTORLOG -DNDEBUG -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src  -std=gnu99 -W -Wall -Wextra -Wredundant-decls -O3 -O3 -DNDEBUG -o CMakeFiles/minor.dir/boundsprop/minor.c.o -c /home/goose/BVArithmaticBenchmarkGenerator/boolector/examples/api/c/boundsprop/minor.c",
+  "file": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/examples/api/c/boundsprop/minor.c",
+  "output": "examples/api/c/CMakeFiles/minor.dir/boundsprop/minor.c.o"
+},
+{
+  "directory": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/examples/api/c",
+  "command": "/usr/bin/cc -DBTOR_HAVE_PTHREADS -DBTOR_HAVE_SIGNALS -DBTOR_USE_LINGELING -DBTOR_USE_MINISAT -DNBTORLOG -DNDEBUG -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src  -std=gnu99 -W -Wall -Wextra -Wredundant-decls -O3 -O3 -DNDEBUG -o CMakeFiles/minor.dir/boundsprop/minormain.c.o -c /home/goose/BVArithmaticBenchmarkGenerator/boolector/examples/api/c/boundsprop/minormain.c",
+  "file": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/examples/api/c/boundsprop/minormain.c",
+  "output": "examples/api/c/CMakeFiles/minor.dir/boundsprop/minormain.c.o"
+},
+{
+  "directory": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/examples/api/c",
+  "command": "/usr/bin/cc -DBTOR_HAVE_PTHREADS -DBTOR_HAVE_SIGNALS -DBTOR_USE_LINGELING -DBTOR_USE_MINISAT -DNBTORLOG -DNDEBUG -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src  -std=gnu99 -W -Wall -Wextra -Wredundant-decls -O3 -O3 -DNDEBUG -o CMakeFiles/maxor.dir/boundsprop/maxor.c.o -c /home/goose/BVArithmaticBenchmarkGenerator/boolector/examples/api/c/boundsprop/maxor.c",
+  "file": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/examples/api/c/boundsprop/maxor.c",
+  "output": "examples/api/c/CMakeFiles/maxor.dir/boundsprop/maxor.c.o"
+},
+{
+  "directory": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/examples/api/c",
+  "command": "/usr/bin/cc -DBTOR_HAVE_PTHREADS -DBTOR_HAVE_SIGNALS -DBTOR_USE_LINGELING -DBTOR_USE_MINISAT -DNBTORLOG -DNDEBUG -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src  -std=gnu99 -W -Wall -Wextra -Wredundant-decls -O3 -O3 -DNDEBUG -o CMakeFiles/maxor.dir/boundsprop/maxormain.c.o -c /home/goose/BVArithmaticBenchmarkGenerator/boolector/examples/api/c/boundsprop/maxormain.c",
+  "file": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/examples/api/c/boundsprop/maxormain.c",
+  "output": "examples/api/c/CMakeFiles/maxor.dir/boundsprop/maxormain.c.o"
+},
+{
+  "directory": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/examples/api/c",
+  "command": "/usr/bin/cc -DBTOR_HAVE_PTHREADS -DBTOR_HAVE_SIGNALS -DBTOR_USE_LINGELING -DBTOR_USE_MINISAT -DNBTORLOG -DNDEBUG -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src  -std=gnu99 -W -Wall -Wextra -Wredundant-decls -O3 -O3 -DNDEBUG -o CMakeFiles/minand.dir/boundsprop/minand.c.o -c /home/goose/BVArithmaticBenchmarkGenerator/boolector/examples/api/c/boundsprop/minand.c",
+  "file": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/examples/api/c/boundsprop/minand.c",
+  "output": "examples/api/c/CMakeFiles/minand.dir/boundsprop/minand.c.o"
+},
+{
+  "directory": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/examples/api/c",
+  "command": "/usr/bin/cc -DBTOR_HAVE_PTHREADS -DBTOR_HAVE_SIGNALS -DBTOR_USE_LINGELING -DBTOR_USE_MINISAT -DNBTORLOG -DNDEBUG -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src  -std=gnu99 -W -Wall -Wextra -Wredundant-decls -O3 -O3 -DNDEBUG -o CMakeFiles/minand.dir/boundsprop/minandmain.c.o -c /home/goose/BVArithmaticBenchmarkGenerator/boolector/examples/api/c/boundsprop/minandmain.c",
+  "file": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/examples/api/c/boundsprop/minandmain.c",
+  "output": "examples/api/c/CMakeFiles/minand.dir/boundsprop/minandmain.c.o"
+},
+{
+  "directory": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/examples/api/c",
+  "command": "/usr/bin/cc -DBTOR_HAVE_PTHREADS -DBTOR_HAVE_SIGNALS -DBTOR_USE_LINGELING -DBTOR_USE_MINISAT -DNBTORLOG -DNDEBUG -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src  -std=gnu99 -W -Wall -Wextra -Wredundant-decls -O3 -O3 -DNDEBUG -o CMakeFiles/maxand.dir/boundsprop/maxand.c.o -c /home/goose/BVArithmaticBenchmarkGenerator/boolector/examples/api/c/boundsprop/maxand.c",
+  "file": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/examples/api/c/boundsprop/maxand.c",
+  "output": "examples/api/c/CMakeFiles/maxand.dir/boundsprop/maxand.c.o"
+},
+{
+  "directory": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/examples/api/c",
+  "command": "/usr/bin/cc -DBTOR_HAVE_PTHREADS -DBTOR_HAVE_SIGNALS -DBTOR_USE_LINGELING -DBTOR_USE_MINISAT -DNBTORLOG -DNDEBUG -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src  -std=gnu99 -W -Wall -Wextra -Wredundant-decls -O3 -O3 -DNDEBUG -o CMakeFiles/maxand.dir/boundsprop/maxandmain.c.o -c /home/goose/BVArithmaticBenchmarkGenerator/boolector/examples/api/c/boundsprop/maxandmain.c",
+  "file": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/examples/api/c/boundsprop/maxandmain.c",
+  "output": "examples/api/c/CMakeFiles/maxand.dir/boundsprop/maxandmain.c.o"
+},
+{
+  "directory": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/examples/api/c",
+  "command": "/usr/bin/cc -DBTOR_HAVE_PTHREADS -DBTOR_HAVE_SIGNALS -DBTOR_USE_LINGELING -DBTOR_USE_MINISAT -DNBTORLOG -DNDEBUG -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src  -std=gnu99 -W -Wall -Wextra -Wredundant-decls -O3 -O3 -DNDEBUG -o CMakeFiles/minxor.dir/boundsprop/minxor.c.o -c /home/goose/BVArithmaticBenchmarkGenerator/boolector/examples/api/c/boundsprop/minxor.c",
+  "file": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/examples/api/c/boundsprop/minxor.c",
+  "output": "examples/api/c/CMakeFiles/minxor.dir/boundsprop/minxor.c.o"
+},
+{
+  "directory": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/examples/api/c",
+  "command": "/usr/bin/cc -DBTOR_HAVE_PTHREADS -DBTOR_HAVE_SIGNALS -DBTOR_USE_LINGELING -DBTOR_USE_MINISAT -DNBTORLOG -DNDEBUG -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src  -std=gnu99 -W -Wall -Wextra -Wredundant-decls -O3 -O3 -DNDEBUG -o CMakeFiles/minxor.dir/boundsprop/minxormain.c.o -c /home/goose/BVArithmaticBenchmarkGenerator/boolector/examples/api/c/boundsprop/minxormain.c",
+  "file": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/examples/api/c/boundsprop/minxormain.c",
+  "output": "examples/api/c/CMakeFiles/minxor.dir/boundsprop/minxormain.c.o"
+},
+{
+  "directory": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/examples/api/c",
+  "command": "/usr/bin/cc -DBTOR_HAVE_PTHREADS -DBTOR_HAVE_SIGNALS -DBTOR_USE_LINGELING -DBTOR_USE_MINISAT -DNBTORLOG -DNDEBUG -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src  -std=gnu99 -W -Wall -Wextra -Wredundant-decls -O3 -O3 -DNDEBUG -o CMakeFiles/maxxor.dir/boundsprop/maxxor.c.o -c /home/goose/BVArithmaticBenchmarkGenerator/boolector/examples/api/c/boundsprop/maxxor.c",
+  "file": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/examples/api/c/boundsprop/maxxor.c",
+  "output": "examples/api/c/CMakeFiles/maxxor.dir/boundsprop/maxxor.c.o"
+},
+{
+  "directory": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/examples/api/c",
+  "command": "/usr/bin/cc -DBTOR_HAVE_PTHREADS -DBTOR_HAVE_SIGNALS -DBTOR_USE_LINGELING -DBTOR_USE_MINISAT -DNBTORLOG -DNDEBUG -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src  -std=gnu99 -W -Wall -Wextra -Wredundant-decls -O3 -O3 -DNDEBUG -o CMakeFiles/maxxor.dir/boundsprop/maxxormain.c.o -c /home/goose/BVArithmaticBenchmarkGenerator/boolector/examples/api/c/boundsprop/maxxormain.c",
+  "file": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/examples/api/c/boundsprop/maxxormain.c",
+  "output": "examples/api/c/CMakeFiles/maxxor.dir/boundsprop/maxxormain.c.o"
+},
+{
+  "directory": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/examples/api/c",
+  "command": "/usr/bin/cc -DBTOR_HAVE_PTHREADS -DBTOR_HAVE_SIGNALS -DBTOR_USE_LINGELING -DBTOR_USE_MINISAT -DNBTORLOG -DNDEBUG -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src  -std=gnu99 -W -Wall -Wextra -Wredundant-decls -O3 -O3 -DNDEBUG -o CMakeFiles/theorems.dir/boundsprop/theorems.c.o -c /home/goose/BVArithmaticBenchmarkGenerator/boolector/examples/api/c/boundsprop/theorems.c",
+  "file": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/examples/api/c/boundsprop/theorems.c",
+  "output": "examples/api/c/CMakeFiles/theorems.dir/boundsprop/theorems.c.o"
+},
+{
+  "directory": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/examples/api/c",
+  "command": "/usr/bin/cc -DBTOR_HAVE_PTHREADS -DBTOR_HAVE_SIGNALS -DBTOR_USE_LINGELING -DBTOR_USE_MINISAT -DNBTORLOG -DNDEBUG -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src  -std=gnu99 -W -Wall -Wextra -Wredundant-decls -O3 -O3 -DNDEBUG -o CMakeFiles/theorems.dir/boundsprop/minor.c.o -c /home/goose/BVArithmaticBenchmarkGenerator/boolector/examples/api/c/boundsprop/minor.c",
+  "file": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/examples/api/c/boundsprop/minor.c",
+  "output": "examples/api/c/CMakeFiles/theorems.dir/boundsprop/minor.c.o"
+},
+{
+  "directory": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/examples/api/c",
+  "command": "/usr/bin/cc -DBTOR_HAVE_PTHREADS -DBTOR_HAVE_SIGNALS -DBTOR_USE_LINGELING -DBTOR_USE_MINISAT -DNBTORLOG -DNDEBUG -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src  -std=gnu99 -W -Wall -Wextra -Wredundant-decls -O3 -O3 -DNDEBUG -o CMakeFiles/theorems.dir/boundsprop/minand.c.o -c /home/goose/BVArithmaticBenchmarkGenerator/boolector/examples/api/c/boundsprop/minand.c",
+  "file": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/examples/api/c/boundsprop/minand.c",
+  "output": "examples/api/c/CMakeFiles/theorems.dir/boundsprop/minand.c.o"
+},
+{
+  "directory": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/examples/api/c",
+  "command": "/usr/bin/cc -DBTOR_HAVE_PTHREADS -DBTOR_HAVE_SIGNALS -DBTOR_USE_LINGELING -DBTOR_USE_MINISAT -DNBTORLOG -DNDEBUG -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src  -std=gnu99 -W -Wall -Wextra -Wredundant-decls -O3 -O3 -DNDEBUG -o CMakeFiles/theorems.dir/boundsprop/maxor.c.o -c /home/goose/BVArithmaticBenchmarkGenerator/boolector/examples/api/c/boundsprop/maxor.c",
+  "file": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/examples/api/c/boundsprop/maxor.c",
+  "output": "examples/api/c/CMakeFiles/theorems.dir/boundsprop/maxor.c.o"
+},
+{
+  "directory": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/examples/api/c",
+  "command": "/usr/bin/cc -DBTOR_HAVE_PTHREADS -DBTOR_HAVE_SIGNALS -DBTOR_USE_LINGELING -DBTOR_USE_MINISAT -DNBTORLOG -DNDEBUG -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src  -std=gnu99 -W -Wall -Wextra -Wredundant-decls -O3 -O3 -DNDEBUG -o CMakeFiles/theorems.dir/boundsprop/maxand.c.o -c /home/goose/BVArithmaticBenchmarkGenerator/boolector/examples/api/c/boundsprop/maxand.c",
+  "file": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/examples/api/c/boundsprop/maxand.c",
+  "output": "examples/api/c/CMakeFiles/theorems.dir/boundsprop/maxand.c.o"
+},
+{
+  "directory": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/examples/api/c",
+  "command": "/usr/bin/cc -DBTOR_HAVE_PTHREADS -DBTOR_HAVE_SIGNALS -DBTOR_USE_LINGELING -DBTOR_USE_MINISAT -DNBTORLOG -DNDEBUG -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src  -std=gnu99 -W -Wall -Wextra -Wredundant-decls -O3 -O3 -DNDEBUG -o CMakeFiles/theorems.dir/boundsprop/minxor.c.o -c /home/goose/BVArithmaticBenchmarkGenerator/boolector/examples/api/c/boundsprop/minxor.c",
+  "file": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/examples/api/c/boundsprop/minxor.c",
+  "output": "examples/api/c/CMakeFiles/theorems.dir/boundsprop/minxor.c.o"
+},
+{
+  "directory": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/examples/api/c",
+  "command": "/usr/bin/cc -DBTOR_HAVE_PTHREADS -DBTOR_HAVE_SIGNALS -DBTOR_USE_LINGELING -DBTOR_USE_MINISAT -DNBTORLOG -DNDEBUG -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src  -std=gnu99 -W -Wall -Wextra -Wredundant-decls -O3 -O3 -DNDEBUG -o CMakeFiles/theorems.dir/boundsprop/maxxor.c.o -c /home/goose/BVArithmaticBenchmarkGenerator/boolector/examples/api/c/boundsprop/maxxor.c",
+  "file": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/examples/api/c/boundsprop/maxxor.c",
+  "output": "examples/api/c/CMakeFiles/theorems.dir/boundsprop/maxxor.c.o"
+},
+{
+  "directory": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/examples/api/c",
+  "command": "/usr/bin/cc -DBTOR_HAVE_PTHREADS -DBTOR_HAVE_SIGNALS -DBTOR_USE_LINGELING -DBTOR_USE_MINISAT -DNBTORLOG -DNDEBUG -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src  -std=gnu99 -W -Wall -Wextra -Wredundant-decls -O3 -O3 -DNDEBUG -o CMakeFiles/bubblesort.dir/bubblesort/bubblesort.c.o -c /home/goose/BVArithmaticBenchmarkGenerator/boolector/examples/api/c/bubblesort/bubblesort.c",
+  "file": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/examples/api/c/bubblesort/bubblesort.c",
+  "output": "examples/api/c/CMakeFiles/bubblesort.dir/bubblesort/bubblesort.c.o"
+},
+{
+  "directory": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/examples/api/c",
+  "command": "/usr/bin/cc -DBTOR_HAVE_PTHREADS -DBTOR_HAVE_SIGNALS -DBTOR_USE_LINGELING -DBTOR_USE_MINISAT -DNBTORLOG -DNDEBUG -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src  -std=gnu99 -W -Wall -Wextra -Wredundant-decls -O3 -O3 -DNDEBUG -o CMakeFiles/bubblesortmem.dir/bubblesortmem/bubblesortmem.c.o -c /home/goose/BVArithmaticBenchmarkGenerator/boolector/examples/api/c/bubblesortmem/bubblesortmem.c",
+  "file": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/examples/api/c/bubblesortmem/bubblesortmem.c",
+  "output": "examples/api/c/CMakeFiles/bubblesortmem.dir/bubblesortmem/bubblesortmem.c.o"
+},
+{
+  "directory": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/examples/api/c",
+  "command": "/usr/bin/cc -DBTOR_HAVE_PTHREADS -DBTOR_HAVE_SIGNALS -DBTOR_USE_LINGELING -DBTOR_USE_MINISAT -DNBTORLOG -DNDEBUG -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src  -std=gnu99 -W -Wall -Wextra -Wredundant-decls -O3 -O3 -DNDEBUG -o CMakeFiles/bv1.dir/bv/bv1.c.o -c /home/goose/BVArithmaticBenchmarkGenerator/boolector/examples/api/c/bv/bv1.c",
+  "file": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/examples/api/c/bv/bv1.c",
+  "output": "examples/api/c/CMakeFiles/bv1.dir/bv/bv1.c.o"
+},
+{
+  "directory": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/examples/api/c",
+  "command": "/usr/bin/cc -DBTOR_HAVE_PTHREADS -DBTOR_HAVE_SIGNALS -DBTOR_USE_LINGELING -DBTOR_USE_MINISAT -DNBTORLOG -DNDEBUG -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src  -std=gnu99 -W -Wall -Wextra -Wredundant-decls -O3 -O3 -DNDEBUG -o CMakeFiles/bv2.dir/bv/bv2.c.o -c /home/goose/BVArithmaticBenchmarkGenerator/boolector/examples/api/c/bv/bv2.c",
+  "file": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/examples/api/c/bv/bv2.c",
+  "output": "examples/api/c/CMakeFiles/bv2.dir/bv/bv2.c.o"
+},
+{
+  "directory": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/examples/api/c",
+  "command": "/usr/bin/cc -DBTOR_HAVE_PTHREADS -DBTOR_HAVE_SIGNALS -DBTOR_USE_LINGELING -DBTOR_USE_MINISAT -DNBTORLOG -DNDEBUG -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src  -std=gnu99 -W -Wall -Wextra -Wredundant-decls -O3 -O3 -DNDEBUG -o CMakeFiles/doublereversearray.dir/doublereversearray/doublereversearray.c.o -c /home/goose/BVArithmaticBenchmarkGenerator/boolector/examples/api/c/doublereversearray/doublereversearray.c",
+  "file": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/examples/api/c/doublereversearray/doublereversearray.c",
+  "output": "examples/api/c/CMakeFiles/doublereversearray.dir/doublereversearray/doublereversearray.c.o"
+},
+{
+  "directory": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/examples/api/c",
+  "command": "/usr/bin/cc -DBTOR_HAVE_PTHREADS -DBTOR_HAVE_SIGNALS -DBTOR_USE_LINGELING -DBTOR_USE_MINISAT -DNBTORLOG -DNDEBUG -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src  -std=gnu99 -W -Wall -Wextra -Wredundant-decls -O3 -O3 -DNDEBUG -o CMakeFiles/ispowerof2.dir/ispowerof2/ispowerof2.c.o -c /home/goose/BVArithmaticBenchmarkGenerator/boolector/examples/api/c/ispowerof2/ispowerof2.c",
+  "file": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/examples/api/c/ispowerof2/ispowerof2.c",
+  "output": "examples/api/c/CMakeFiles/ispowerof2.dir/ispowerof2/ispowerof2.c.o"
+},
+{
+  "directory": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/examples/api/c",
+  "command": "/usr/bin/cc -DBTOR_HAVE_PTHREADS -DBTOR_HAVE_SIGNALS -DBTOR_USE_LINGELING -DBTOR_USE_MINISAT -DNBTORLOG -DNDEBUG -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src  -std=gnu99 -W -Wall -Wextra -Wredundant-decls -O3 -O3 -DNDEBUG -o CMakeFiles/linearsearch.dir/linearsearch/linearsearch.c.o -c /home/goose/BVArithmaticBenchmarkGenerator/boolector/examples/api/c/linearsearch/linearsearch.c",
+  "file": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/examples/api/c/linearsearch/linearsearch.c",
+  "output": "examples/api/c/CMakeFiles/linearsearch.dir/linearsearch/linearsearch.c.o"
+},
+{
+  "directory": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/examples/api/c",
+  "command": "/usr/bin/cc -DBTOR_HAVE_PTHREADS -DBTOR_HAVE_SIGNALS -DBTOR_USE_LINGELING -DBTOR_USE_MINISAT -DNBTORLOG -DNDEBUG -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src  -std=gnu99 -W -Wall -Wextra -Wredundant-decls -O3 -O3 -DNDEBUG -o CMakeFiles/matrixmultass.dir/matrixmultass/matrixmultass.c.o -c /home/goose/BVArithmaticBenchmarkGenerator/boolector/examples/api/c/matrixmultass/matrixmultass.c",
+  "file": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/examples/api/c/matrixmultass/matrixmultass.c",
+  "output": "examples/api/c/CMakeFiles/matrixmultass.dir/matrixmultass/matrixmultass.c.o"
+},
+{
+  "directory": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/examples/api/c",
+  "command": "/usr/bin/cc -DBTOR_HAVE_PTHREADS -DBTOR_HAVE_SIGNALS -DBTOR_USE_LINGELING -DBTOR_USE_MINISAT -DNBTORLOG -DNDEBUG -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src  -std=gnu99 -W -Wall -Wextra -Wredundant-decls -O3 -O3 -DNDEBUG -o CMakeFiles/matrixmultcomm.dir/matrixmultcomm/matrixmultcomm.c.o -c /home/goose/BVArithmaticBenchmarkGenerator/boolector/examples/api/c/matrixmultcomm/matrixmultcomm.c",
+  "file": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/examples/api/c/matrixmultcomm/matrixmultcomm.c",
+  "output": "examples/api/c/CMakeFiles/matrixmultcomm.dir/matrixmultcomm/matrixmultcomm.c.o"
+},
+{
+  "directory": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/examples/api/c",
+  "command": "/usr/bin/cc -DBTOR_HAVE_PTHREADS -DBTOR_HAVE_SIGNALS -DBTOR_USE_LINGELING -DBTOR_USE_MINISAT -DNBTORLOG -DNDEBUG -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src  -std=gnu99 -W -Wall -Wextra -Wredundant-decls -O3 -O3 -DNDEBUG -o CMakeFiles/max.dir/max/max.c.o -c /home/goose/BVArithmaticBenchmarkGenerator/boolector/examples/api/c/max/max.c",
+  "file": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/examples/api/c/max/max.c",
+  "output": "examples/api/c/CMakeFiles/max.dir/max/max.c.o"
+},
+{
+  "directory": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/examples/api/c",
+  "command": "/usr/bin/cc -DBTOR_HAVE_PTHREADS -DBTOR_HAVE_SIGNALS -DBTOR_USE_LINGELING -DBTOR_USE_MINISAT -DNBTORLOG -DNDEBUG -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src  -std=gnu99 -W -Wall -Wextra -Wredundant-decls -O3 -O3 -DNDEBUG -o CMakeFiles/memcpy.dir/memcpy/memcpy.c.o -c /home/goose/BVArithmaticBenchmarkGenerator/boolector/examples/api/c/memcpy/memcpy.c",
+  "file": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/examples/api/c/memcpy/memcpy.c",
+  "output": "examples/api/c/CMakeFiles/memcpy.dir/memcpy/memcpy.c.o"
+},
+{
+  "directory": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/examples/api/c",
+  "command": "/usr/bin/cc -DBTOR_HAVE_PTHREADS -DBTOR_HAVE_SIGNALS -DBTOR_USE_LINGELING -DBTOR_USE_MINISAT -DNBTORLOG -DNDEBUG -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src  -std=gnu99 -W -Wall -Wextra -Wredundant-decls -O3 -O3 -DNDEBUG -o CMakeFiles/nextpowerof2.dir/nextpowerof2/nextpowerof2.c.o -c /home/goose/BVArithmaticBenchmarkGenerator/boolector/examples/api/c/nextpowerof2/nextpowerof2.c",
+  "file": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/examples/api/c/nextpowerof2/nextpowerof2.c",
+  "output": "examples/api/c/CMakeFiles/nextpowerof2.dir/nextpowerof2/nextpowerof2.c.o"
+},
+{
+  "directory": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/examples/api/c",
+  "command": "/usr/bin/cc -DBTOR_HAVE_PTHREADS -DBTOR_HAVE_SIGNALS -DBTOR_USE_LINGELING -DBTOR_USE_MINISAT -DNBTORLOG -DNDEBUG -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src  -std=gnu99 -W -Wall -Wextra -Wredundant-decls -O3 -O3 -DNDEBUG -o CMakeFiles/selectionsort.dir/selectionsort/selectionsort.c.o -c /home/goose/BVArithmaticBenchmarkGenerator/boolector/examples/api/c/selectionsort/selectionsort.c",
+  "file": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/examples/api/c/selectionsort/selectionsort.c",
+  "output": "examples/api/c/CMakeFiles/selectionsort.dir/selectionsort/selectionsort.c.o"
+},
+{
+  "directory": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/examples/api/c",
+  "command": "/usr/bin/cc -DBTOR_HAVE_PTHREADS -DBTOR_HAVE_SIGNALS -DBTOR_USE_LINGELING -DBTOR_USE_MINISAT -DNBTORLOG -DNDEBUG -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src  -std=gnu99 -W -Wall -Wextra -Wredundant-decls -O3 -O3 -DNDEBUG -o CMakeFiles/selectionsortmem.dir/selectionsortmem/selectionsortmem.c.o -c /home/goose/BVArithmaticBenchmarkGenerator/boolector/examples/api/c/selectionsortmem/selectionsortmem.c",
+  "file": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/examples/api/c/selectionsortmem/selectionsortmem.c",
+  "output": "examples/api/c/CMakeFiles/selectionsortmem.dir/selectionsortmem/selectionsortmem.c.o"
+},
+{
+  "directory": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/examples/api/c",
+  "command": "/usr/bin/cc -DBTOR_HAVE_PTHREADS -DBTOR_HAVE_SIGNALS -DBTOR_USE_LINGELING -DBTOR_USE_MINISAT -DNBTORLOG -DNDEBUG -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src  -std=gnu99 -W -Wall -Wextra -Wredundant-decls -O3 -O3 -DNDEBUG -o CMakeFiles/sudoku.dir/sudoku/sudoku.c.o -c /home/goose/BVArithmaticBenchmarkGenerator/boolector/examples/api/c/sudoku/sudoku.c",
+  "file": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/examples/api/c/sudoku/sudoku.c",
+  "output": "examples/api/c/CMakeFiles/sudoku.dir/sudoku/sudoku.c.o"
+},
+{
+  "directory": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/examples/api/c",
+  "command": "/usr/bin/cc -DBTOR_HAVE_PTHREADS -DBTOR_HAVE_SIGNALS -DBTOR_USE_LINGELING -DBTOR_USE_MINISAT -DNBTORLOG -DNDEBUG -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src  -std=gnu99 -W -Wall -Wextra -Wredundant-decls -O3 -O3 -DNDEBUG -o CMakeFiles/swapmem.dir/swapmem/swapmem.c.o -c /home/goose/BVArithmaticBenchmarkGenerator/boolector/examples/api/c/swapmem/swapmem.c",
+  "file": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/examples/api/c/swapmem/swapmem.c",
+  "output": "examples/api/c/CMakeFiles/swapmem.dir/swapmem/swapmem.c.o"
+},
+{
+  "directory": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/examples/api/c",
+  "command": "/usr/bin/c++ -DBTOR_HAVE_PTHREADS -DBTOR_HAVE_SIGNALS -DBTOR_USE_LINGELING -DBTOR_USE_MINISAT -DNBTORLOG -DNDEBUG -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src  -std=gnu++11 -W -Wall -Wextra -Wredundant-decls -O3 -O3 -DNDEBUG -o CMakeFiles/exception.dir/exception.cpp.o -c /home/goose/BVArithmaticBenchmarkGenerator/boolector/examples/api/c/exception.cpp",
+  "file": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/examples/api/c/exception.cpp",
+  "output": "examples/api/c/CMakeFiles/exception.dir/exception.cpp.o"
+},
+{
+  "directory": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/examples/api/c",
+  "command": "/usr/bin/cc -DBTOR_HAVE_PTHREADS -DBTOR_HAVE_SIGNALS -DBTOR_USE_LINGELING -DBTOR_USE_MINISAT -DNBTORLOG -DNDEBUG -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/src -I/home/goose/BVArithmaticBenchmarkGenerator/boolector/build/src  -std=gnu99 -W -Wall -Wextra -Wredundant-decls -O3 -O3 -DNDEBUG -o CMakeFiles/quickstart.dir/quickstart.c.o -c /home/goose/BVArithmaticBenchmarkGenerator/boolector/examples/api/c/quickstart.c",
+  "file": "/home/goose/BVArithmaticBenchmarkGenerator/boolector/examples/api/c/quickstart.c",
+  "output": "examples/api/c/CMakeFiles/quickstart.dir/quickstart.c.o"
+}
+]

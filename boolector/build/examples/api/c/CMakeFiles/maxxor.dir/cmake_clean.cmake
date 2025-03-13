@@ -1,0 +1,13 @@
+file(REMOVE_RECURSE
+  "../../../bin/examples/api/c/boundsprop/maxxor"
+  "../../../bin/examples/api/c/boundsprop/maxxor.pdb"
+  "CMakeFiles/maxxor.dir/boundsprop/maxxor.c.o"
+  "CMakeFiles/maxxor.dir/boundsprop/maxxor.c.o.d"
+  "CMakeFiles/maxxor.dir/boundsprop/maxxormain.c.o"
+  "CMakeFiles/maxxor.dir/boundsprop/maxxormain.c.o.d"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang C)
+  include(CMakeFiles/maxxor.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()
