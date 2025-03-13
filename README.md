@@ -34,7 +34,7 @@ To generate commutativity/associativity instances only, if not both, please chec
 ## Generate addition instances
 (in project root folder)
 
-./nbitmult/gen_nbitadd.sh
+./nbitadd/gen_nbitadd.sh
 
 A simple way to change the range of bits used for instances is to change it in ./nbitmult/gen_nbitadd.sh
 
