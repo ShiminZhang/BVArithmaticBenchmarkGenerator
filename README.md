@@ -28,6 +28,8 @@ cd aiger/
 
 ./nbitmult/gen_nbitmult.sh
 
+default range of bits: [10,14]
+
 A simple way to change the range of bits used for instances is to change it in ./nbitmult/gen_nbitmult.sh
 
 To generate commutativity/associativity instances only, if not both, please check the gen() function in the script. The comments there would help.
@@ -36,6 +38,8 @@ To generate commutativity/associativity instances only, if not both, please chec
 
 ./nbitadd/gen_nbitadd.sh
 
-A simple way to change the range of bits used for instances is to change it in ./nbitmult/gen_nbitadd.sh
+default range of bits: [10000,50000]
+
+A simple way to change the range of bits used for instances is to change it in ./nbitadd/gen_nbitadd.sh
 
 To generate commutativity/associativity instances only, if not both, please check the gen() function in the script. The comments there would help.
