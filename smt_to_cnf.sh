@@ -10,7 +10,7 @@ echo "converting SMTs in $1"
 for file in $1/*.smt2; do
     if [ -f "$file" ]; then
         echo "Processing file: $file"
-        # gen $file
+        gen $file
     fi
 done
 
