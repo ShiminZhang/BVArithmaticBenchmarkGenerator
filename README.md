@@ -20,6 +20,7 @@ cd boolector/
 ./configure.sh && cd build && make
 ### Compile aiger
 cd aiger/
+
 ./configure.sh && make
 
 ## Generate multiplication instances
